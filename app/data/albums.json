@@ -1,0 +1,62 @@
+[
+    {
+       "cover": "/albums/album-1.jpg",
+       "name": "Name 1",
+       "description": "Description 1"    
+    },
+    {
+        "cover": "/albums/album-2.png",
+        "name": "Name 1",
+        "description": "Description 1"     
+    },
+    {
+        "cover": "/albums/album-3.jpg",
+        "name": "Name 1",
+        "description": "Description 1"    
+    },
+    {
+        "cover": "/albums/album-4.jpg",
+        "name": "Name 1",
+        "description": "Description 1"     
+    },
+    {
+        "cover": "/albums/album-5.jpg",
+        "name": "Name 1",
+        "description": "Description 1"      
+    },
+    {
+        "cover": "/albums/album-6.jpg",
+        "name": "Name 1",
+        "description": "Description 1"      
+    },
+    {
+        "cover": "/albums/album-7.jpg",
+        "name": "Name 1",
+        "description": "Description 1"      
+    },
+    {
+        "cover": "/albums/album-8.jpeg",
+        "name": "Name 1",
+        "description": "Description 1"     
+    },
+    {
+        "cover": "/albums/album-9.webp",
+        "name": "Name 1",
+        "description": "Description 1"     
+    },
+    {
+        "cover": "/albums/album-10.jpg",
+        "name": "Name 1",
+        "description": "Description 1"     
+    },
+    {
+        "cover": "/albums/album-11.png",
+        "name": "Name 1",
+        "description": "Description 1"      
+    },
+    {
+        "cover": "/albums/album-12.jpeg",
+        "name": "Name 1",
+        "description": "Description 1"     
+    }
+]
